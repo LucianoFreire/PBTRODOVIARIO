@@ -68,9 +68,19 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="4dp"
                     android:layout_marginTop="8dp"
-                    android:text="@string/Veic_2C_des"
+                    android:text="@string/Veic_2CC_des"
                     android:textSize="14sp" />
             </android.support.v7.widget.CardView>
+            <!-- BOTÃO DEFINIÇÃO
+            <ImageButton
+                android:id="@+id/btn_calcular"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="4dp"
+                android:background="#ffffff"
+                android:src="@drawable/btn_calcular"
+                android:onClick="calcular"/>
+-->
         </LinearLayout>
     </ScrollView>
 

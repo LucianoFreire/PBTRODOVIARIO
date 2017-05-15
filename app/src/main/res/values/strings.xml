@@ -2,6 +2,7 @@
     <string name="app_name">PBT RODOVIÁRIO</string>
     <string name="Veic_2CC_des">Caminhão Classificação 2CC</string>
     <string name="Veic_2C_des">Caminhão Classificação 2C</string>
+    <string name="title_activity_calcular">Calcular</string>
     <string name="Veic_3C_des">Caminhão Classificação 3C</string>
     <string name="Veic_3CD_des">Caminhão Classificação 3CD</string>
     <string name="Veic_3DC_des">Caminhão Classificação 3DC</string>
@@ -37,6 +38,7 @@
     <string name="Veic_4D2_des">Caminhão Trator + Semi-reboque Classificação 4D2</string>
     <string name="Veic_4I2_des">Caminhão Trator + Semi-reboque Classificação 4I2</string>
     <string name="Veic_4ID_des">Caminhão Trator + Semi-reboque Classificação 4ID</string>
+
     <string name="beagle_des"></string>
     <string name="boxer_des"></string>
     <string name="golden_des"></string>
