@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 , R.drawable.img4ds, R.drawable.img4dt, R.drawable.img4d3, R.drawable.img41c, R.drawable.img4d1, R.drawable.img42c, R.drawable.img4d2
                 , R.drawable.img4i2, R.drawable.img4id, R.drawable.img2c2, R.drawable.img2c3, R.drawable.img2r4, R.drawable.img3c2, R.drawable.img3c3
                 , R.drawable.img3d4, R.drawable.img3dd, R.drawable.img33d, R.drawable.img34d, R.drawable.img4r2, R.drawable.img4r3, R.drawable.img42d
-                , R.drawable.img43d, R.drawable.img2n3
+                , R.drawable.img43d, R.drawable.img2n3, R.drawable.img2n4, R.drawable.img2j4
 
 
         };
@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                 "3D3 / I-19", "3I1 / I-20", "3DI / I-21", "3I3 / I-22", "3ID / I-23", "3D1 / I-24", "32D / I-25", "3S2 / I-26", "4DI / I-27",
                 "4DS / I-28", "4DT / I-29", "4D3 / I-30", "41C / I-31", "4D1 / I-32", "42C / I-33", "4D2 / I-34", "4I2 / I-35", "4ID / I-36",
                 "2C2 / I-37", "2C3 / I-38", "2R4 / I-39", "3C2 / I-40", "3C3 / I-41", "3D4 / I-42", "3DD / I-43", "33D / I-44", "34D / I-45",
-                "4R2 / I-46", "4R3 / I-47", "42D / I-48", "43D / I-49", "2N3 / I-50",
+                "4R2 / I-46", "4R3 / I-47", "42D / I-48", "43D / I-49", "2N3 / I-50", "2N4 / I-51", "2J4 / I-52",
 
 
                 "Siberian husky",
@@ -139,31 +139,3 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 }
-
-
-//IMPLEMENTAÇÃO DO BOTAO CALCULAR
-
-        /* ImageButton btnCalcular = (ImageButton) findViewById(R.id.btn_calcular);
-            btnCalcular.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this,CalcularPBT.class);
-                startActivity(i);
-            }
-
-        });*/
-
-
-
-    /*Button btnCalcular = (Button) findViewById(R.id.btn_calcular);
-        btnCalcular.setOnClickListener(new View.OnClickListener() {
-@Override
-public void onClick(View v) {
-        Toast.makeText(MainActivity.this, "Página Calcular PBT",Toast.LENGTH_LONG).show();
-        Intent Calcular = new Intent(MainActivity.this,CalcularPBT.class);
-        startActivity(Calcular);
-
-        }
-        });
-
-    */
